@@ -124,7 +124,7 @@ See the definition of census metropolitan area (CMA) and census agglomeration (C
 
 
 Census division (CD)  
-Group of neighbouring municipalities joined together for the purposes of regional planning and managing common services (such as police or ambulance services). These groupings are established under laws in effect in certain provinces of Canada. Census division (CD) is the general term for provincially legislated areas (such as county, municipalité régionale de comté (MRC) and regional district) or their equivalents. In other provinces and the territories where laws do not provide for such areas, Statistics Canada defines equivalent areas for statistical reporting purposes in cooperation with these provinces and territories. Census divisions are intermediate geographic areas between the province/territory level and the municipality (census subdivision).
+Group of neighbouring municipalities joined together for the purposes of regional planning and managing common services (such as police or ambulance services). These groupings are established under laws in effect in certain provinces of Canada. Census division (CD) is the general term for provincially legislated areas (such as county, municipalitï¿½ rï¿½gionale de comtï¿½ (MRC) and regional district) or their equivalents. In other provinces and the territories where laws do not provide for such areas, Statistics Canada defines equivalent areas for statistical reporting purposes in cooperation with these provinces and territories. Census divisions are intermediate geographic areas between the province/territory level and the municipality (census subdivision).
 
 Census metropolitan area (CMA) and census agglomeration (CA) 
 A census metropolitan area (CMA) or a census agglomeration (CA) is formed by one or more adjacent municipalities centred on a population centre (known as the core). A CMA must have a total population of at least 100,000, based on data from the current Census of Population Program, of which 50,000 or more must live in the core based on adjusted data from the previous Census of Population Program. A CA must have a core population of at least 10,000 also based on data from the previous Census of Population Program. To be included in the CMA or CA, other adjacent municipalities must have a high degree of integration with the core, as measured by commuting flows derived from data on place of work from the previous Census Program.
@@ -867,7 +867,7 @@ Member
 650	          Akan (Twi)
 651	          Bamanankan
 652	          Edo
-653	          Éwé
+653	          ï¿½wï¿½
 654	          Fulah (Pular, Pulaar, Fulfulde)
 655	          Ga
 656	          Ganda
@@ -876,7 +876,7 @@ Member
 659	          Kinyarwanda (Rwanda)
 660	          Lingala
 661	          Luba-Kasai
-662	          Mòoré
+662	          Mï¿½orï¿½
 663	          Mwani
 664	          Ndebele
 665	          Rundi (Kirundi)
@@ -1209,7 +1209,7 @@ Member
 992	          Akan (Twi)
 993	          Bamanankan
 994	          Edo
-995	          Éwé
+995	          ï¿½wï¿½
 996	          Fulah (Pular, Pulaar, Fulfulde)
 997	          Ga
 998	          Ganda
@@ -1218,7 +1218,7 @@ Member
 1001	          Kinyarwanda (Rwanda)
 1002	          Lingala
 1003	          Luba-Kasai
-1004	          Mòoré
+1004	          Mï¿½orï¿½
 1005	          Mwani
 1006	          Ndebele
 1007	          Rundi (Kirundi)
@@ -1551,7 +1551,7 @@ Member
 1334	        Akan (Twi)
 1335	        Bamanankan
 1336	        Edo
-1337	        Éwé
+1337	        ï¿½wï¿½
 1338	        Fulah (Pular, Pulaar, Fulfulde)
 1339	        Ga
 1340	        Ganda
@@ -1560,7 +1560,7 @@ Member
 1343	        Kinyarwanda (Rwanda)
 1344	        Lingala
 1345	        Luba-Kasai
-1346	        Mòoré
+1346	        Mï¿½orï¿½
 1347	        Mwani
 1348	        Ndebele
 1349	        Rundi (Kirundi)
@@ -1620,8 +1620,8 @@ Member
 1403	  Indigenous identity (45)
 1404	    Single Indigenous responses (46)
 1405	      First Nations (North American Indian)
-1406	      Métis
-1407	      Inuk (Inuit)
+1406	      Mï¿½tis
+1407	      Inukï¿½(Inuit)
 1408	    Multiple Indigenous responses (47)
 1409	    Indigenous responses not included elsewhere (48)
 1410	  Non-Indigenous identity
@@ -1718,23 +1718,23 @@ Member
 1501	  Indigenous ancestry (only) (69)
 1502	    Single Indigenous ancestry (only) (70)
 1503	      First Nations (North American Indian) single ancestry
-1504	      Métis single ancestry
+1504	      Mï¿½tis single ancestry
 1505	      Inuit single ancestry
 1506	    Multiple Indigenous ancestries (only) (71)
-1507	      First Nations (North American Indian) and Métis ancestry only
+1507	      First Nations (North American Indian) and Mï¿½tis ancestry only
 1508	      First Nations (North American Indian) and Inuit ancestry only
-1509	      Métis and Inuit ancestry only
-1510	      First Nations (North American Indian) and Métis and Inuit ancestry only
+1509	      Mï¿½tis and Inuit ancestry only
+1510	      First Nations (North American Indian) and Mï¿½tis and Inuit ancestry only
 1511	  Indigenous and non-Indigenous ancestries (72)
 1512	    Single Indigenous and non-Indigenous ancestries (73)
 1513	      First Nations (North American Indian) and non-Indigenous ancestry only
-1514	      Métis and non-Indigenous ancestry only
+1514	      Mï¿½tis and non-Indigenous ancestry only
 1515	      Inuit and non-Indigenous ancestry only
 1516	    Multiple Indigenous and non-Indigenous ancestries (74)
-1517	      First Nations (North American Indian) and Métis and non-Indigenous ancestry only
+1517	      First Nations (North American Indian) and Mï¿½tis and non-Indigenous ancestry only
 1518	      First Nations (North American Indian) and Inuit and non-Indigenous ancestry only
-1519	      Métis and Inuit and non-Indigenous ancestry only
-1520	      First Nations (North American Indian) and Métis and Inuit and non-Indigenous ancestry only
+1519	      Mï¿½tis and Inuit and non-Indigenous ancestry only
+1520	      First Nations (North American Indian) and Mï¿½tis and Inuit and non-Indigenous ancestry only
 1521	  Non-Indigenous ancestry only (75)
 1522	Total - Citizenship for the population in private households - 25% sample data (76)
 1523	  Canadian citizens (77)
@@ -1842,7 +1842,7 @@ Member
 1625	    Burundi
 1626	    Cameroon
 1627	    Congo, Democratic Republic of the
-1628	    Côte d'Ivoire
+1628	    Cï¿½te d'Ivoire
 1629	    Egypt
 1630	    Eritrea
 1631	    Ethiopia
@@ -1925,13 +1925,13 @@ Member
 1708	  Ukrainian
 1709	  Dutch
 1710	  Polish
-1711	  Québécois
+1711	  Quï¿½bï¿½cois
 1712	  British Isles, n.o.s. (123)
 1713	  Filipino
 1714	  French Canadian
 1715	  Caucasian (White), n.o.s. (124)
 1716	  First Nations (North American Indian), n.o.s. (125)
-1717	  Métis
+1717	  Mï¿½tis
 1718	  European, n.o.s. (126)
 1719	  Russian
 1720	  Norwegian
@@ -2843,8 +2843,8 @@ Member
 2626	  Children not eligible for instruction in the minority official language
 2627	Total - Eligibility and instruction in the minority official language, for the population in private households born between 2003 and 2015 (inclusive) - 100% data (204)
 2628	  Children eligible for instruction in the minority official language
-2629	    Eligible children who have been instructed in the minority official language at the primary or secondary level in Canada
-2630	    Eligible children who have not been instructed in the minority official language at the primary or secondary level in Canada
+2629	    Eligible childrenï¿½who have been instructed in the minority official language at the primary or secondary level in Canada
+2630	    Eligible childrenï¿½who have not been instructed in the minority official language at the primary or secondary level in Canada
 2631	  Children not eligible for instruction in the minority official language
 
 Footnotes
@@ -2859,10 +2859,10 @@ Footnote 3
 Private dwellings occupied by usual residents: A private dwelling occupied by usual residents refers to a private dwelling in which a person or a group of persons is permanently residing. Also included are private dwellings whose usual residents are temporarily absent on May 11, 2021.
 
 Footnote 4
-The category 'Movable dwelling' includes mobile homes and other movable dwellings such as houseboats, recreational vehicles and railroad cars.
+The category 'Movable dwelling' includes mobile homes and other movable dwellings such as houseboats, recreational vehiclesï¿½and railroad cars.
 
 Footnote 5
-A census family is defined as a married couple (with or without children, a common-law couple (with or without children) or a one-parent family. For more information, refer to the Census Dictionary: Census family structure.
+A census family is defined as a married couple (with or without children, a common-law couple (with or without children) or a one-parent family. For more information, refer to theï¿½Census Dictionary: Census family structure.
 
 Footnote 6
 There is no age restriction on children. Includes children living with a grandparent or grandparents without a parent present.
@@ -2897,13 +2897,13 @@ The monetary receipts included are those that tend to be of a regular and recurr
 - income from investment sources, such as dividends and interest on bonds, accounts, guaranteed investment certificates (GICs) and mutual funds;
 - income from employer and personal pension sources, such as private pensions and payments from annuities and registered retirement income funds (RRIFs);
 - other regular cash income, such as child support payments received, spousal support payments (alimony) received and scholarships;
-- income from government sources, such as social assistance, child benefits, Employment Insurance benefits, Old Age Security benefits, COVID-19 benefits and Canada Pension Plan and Québec Pension Plan benefits and disability income.
+- income from government sources, such as social assistance, child benefits, Employment Insurance benefits, Old Age Security benefits, COVID-19 benefits and Canada Pension Plan and Quï¿½bec Pension Plan benefits and disability income.
 
 Receipts excluded from this income definition are:
 
 - one-time receipts, such as lottery winnings, gambling winnings, cash inheritances, lump-sum insurance settlements and tax-free savings account (TFSA) or registered retirement savings plan (RRSP) withdrawals;
 - capital gains because they are not by their nature regular and recurring. It is further assumed that they are more relevant to the concept of wealth than the concept of income;
-- employers' contributions to registered pension plans, Canada Pension Plan, Québec Pension Plan and Employment Insurance;
+- employers' contributions to registered pension plans, Canada Pension Plan, Quï¿½bec Pension Plan and Employment Insurance;
 - voluntary inter-household transfers, imputed rent, goods and services produced for barter and goods produced for own consumption.
 
 After-tax income - Total income less income taxes of the statistical unit during a specified reference period. Income taxes refers to the sum of federal income taxes, provincial and territorial income taxes, less abatement where applicable. Provincial and territorial income taxes include health care premiums in certain jurisdictions. Abatement reduces the federal income taxes payable by persons residing in Quebec or in certain self-governing Yukon First Nation settlement lands.
@@ -2913,8 +2913,8 @@ Market income - The sum of employment income (wages, salaries and commissions, n
 Government transfers - All cash benefits received from federal, provincial, territorial or municipal governments during the reference period. It includes:
 
 - Old Age Security pension, Guaranteed Income Supplement, Allowance or Allowance for the Survivor;
-- retirement, disability and survivor benefits from Canada Pension Plan and Québec Pension Plan;
-- benefits from Employment Insurance and Québec parental insurance plan;
+- retirement, disability and survivor benefits from Canada Pension Plan and Quï¿½bec Pension Plan;
+- benefits from Employment Insurance and Quï¿½bec parental insurance plan;
 - child benefits from federal and provincial programs;
 - social assistance benefits;
 - workers' compensation benefits;
@@ -2951,13 +2951,13 @@ The monetary receipts included are those that tend to be of a regular and recurr
 - income from investment sources, such as dividends and interest on bonds, accounts, guaranteed investment certificates (GICs) and mutual funds;
 - income from employer and personal pension sources, such as private pensions and payments from annuities and registered retirement income funds (RRIFs);
 - other regular cash income, such as child support payments received, spousal support payments (alimony) received and scholarships;
-- income from government sources, such as social assistance, child benefits, Employment Insurance benefits, Old Age Security benefits, COVID-19 benefits and Canada Pension Plan and Québec Pension Plan benefits and disability income.
+- income from government sources, such as social assistance, child benefits, Employment Insurance benefits, Old Age Security benefits, COVID-19 benefits and Canada Pension Plan and Quï¿½bec Pension Plan benefits and disability income.
 
 Receipts excluded from this income definition are:
 
 - one-time receipts, such as lottery winnings, gambling winnings, cash inheritances, lump-sum insurance settlements and tax-free savings account (TFSA) or registered retirement savings plan (RRSP) withdrawals;
 - capital gains because they are not by their nature regular and recurring. It is further assumed that they are more relevant to the concept of wealth than the concept of income;
-- employers' contributions to registered pension plans, Canada Pension Plan, Québec Pension Plan and Employment Insurance;
+- employers' contributions to registered pension plans, Canada Pension Plan, Quï¿½bec Pension Plan and Employment Insurance;
 - voluntary inter-household transfers, imputed rent, goods and services produced for barter and goods produced for own consumption.
 
 After-tax income - Total income less income taxes of the statistical unit during a specified reference period. Income taxes refers to the sum of federal income taxes, provincial and territorial income taxes, less abatement where applicable. Provincial and territorial income taxes include health care premiums in certain jurisdictions. Abatement reduces the federal income taxes payable by persons residing in Quebec or in certain self-governing Yukon First Nation settlement lands.
@@ -2967,8 +2967,8 @@ Market income - The sum of employment income (wages, salaries and commissions, n
 Government transfers - All cash benefits received from federal, provincial, territorial or municipal governments during the reference period. It includes:
 
 - Old Age Security pension, Guaranteed Income Supplement, Allowance or Allowance for the Survivor;
-- retirement, disability and survivor benefits from Canada Pension Plan and Québec Pension Plan;
-- benefits from Employment Insurance and Québec parental insurance plan;
+- retirement, disability and survivor benefits from Canada Pension Plan and Quï¿½bec Pension Plan;
+- benefits from Employment Insurance and Quï¿½bec parental insurance plan;
 - child benefits from federal and provincial programs;
 - social assistance benefits;
 - workers' compensation benefits;
@@ -3018,8 +3018,8 @@ Footnote 20
 Government transfers - All cash benefits received from federal, provincial, territorial or municipal governments during the reference period. It includes:
 
 - Old Age Security pension, Guaranteed Income Supplement, Allowance or Allowance for the Survivor;
-- retirement, disability and survivor benefits from Canada Pension Plan and Québec Pension Plan;
-- benefits from Employment Insurance and Québec parental insurance plan;
+- retirement, disability and survivor benefits from Canada Pension Plan and Quï¿½bec Pension Plan;
+- benefits from Employment Insurance and Quï¿½bec parental insurance plan;
 - child benefits from federal and provincial programs;
 - social assistance benefits;
 - workers' compensation benefits;
@@ -3052,13 +3052,13 @@ The monetary receipts included are those that tend to be of a regular and recurr
 - income from investment sources, such as dividends and interest on bonds, accounts, guaranteed investment certificates (GICs) and mutual funds;
 - income from employer and personal pension sources, such as private pensions and payments from annuities and registered retirement income funds (RRIFs);
 - other regular cash income, such as child support payments received, spousal support payments (alimony) received and scholarships;
-- income from government sources, such as social assistance, child benefits, Employment Insurance benefits, Old Age Security benefits, COVID-19 benefits and Canada Pension Plan and Québec Pension Plan benefits and disability income.
+- income from government sources, such as social assistance, child benefits, Employment Insurance benefits, Old Age Security benefits, COVID-19 benefits and Canada Pension Plan and Quï¿½bec Pension Plan benefits and disability income.
 
 Receipts excluded from this income definition are:
 
 - one-time receipts, such as lottery winnings, gambling winnings, cash inheritances, lump-sum insurance settlements and tax-free savings account (TFSA) or registered retirement savings plan (RRSP) withdrawals;
 - capital gains because they are not by their nature regular and recurring. It is further assumed that they are more relevant to the concept of wealth than the concept of income;
-- employers' contributions to registered pension plans, Canada Pension Plan, Québec Pension Plan and Employment Insurance;
+- employers' contributions to registered pension plans, Canada Pension Plan, Quï¿½bec Pension Plan and Employment Insurance;
 - voluntary inter-household transfers, imputed rent, goods and services produced for barter and goods produced for own consumption.
 
 For the 2021 Census, the reference period for income data is the calendar year 2020, unless otherwise specified.
@@ -3089,13 +3089,13 @@ The monetary receipts included are those that tend to be of a regular and recurr
 - income from investment sources, such as dividends and interest on bonds, accounts, guaranteed investment certificates (GICs) and mutual funds;
 - income from employer and personal pension sources, such as private pensions and payments from annuities and registered retirement income funds (RRIFs);
 - other regular cash income, such as child support payments received, spousal support payments (alimony) received and scholarships;
-- income from government sources, such as social assistance, child benefits, Employment Insurance benefits, Old Age Security benefits, Canada Pension Plan and Québec Pension Plan benefits and disability income.
+- income from government sources, such as social assistance, child benefits, Employment Insurance benefits, Old Age Security benefits, Canada Pension Plan and Quï¿½bec Pension Plan benefits and disability income.
 
 Receipts excluded from this income definition are:
 
 - one-time receipts, such as lottery winnings, gambling winnings, cash inheritances, lump-sum insurance settlements and tax-free savings account (TFSA) or registered retirement savings plan (RRSP) withdrawals;
 - capital gains because they are not by their nature regular and recurring. It is further assumed that they are more relevant to the concept of wealth than the concept of income;
-- employers' contributions to registered pension plans, Canada Pension Plan, Québec Pension Plan and Employment Insurance;
+- employers' contributions to registered pension plans, Canada Pension Plan, Quï¿½bec Pension Plan and Employment Insurance;
 - voluntary inter-household transfers, imputed rent, goods and services produced for barter and goods produced for own consumption.
 
 After-tax income - Total income less income taxes of the statistical unit during a specified reference period. Income taxes refers to the sum of federal income taxes, provincial and territorial income taxes, less abatement where applicable. Provincial and territorial income taxes include health care premiums in certain jurisdictions. Abatement reduces the federal income taxes payable by persons residing in Quebec or in certain self-governing Yukon First Nation settlement lands.
@@ -3105,8 +3105,8 @@ Market income - The sum of employment income (wages, salaries and commissions, n
 Government transfers - All cash benefits received from federal, provincial, territorial or municipal governments during the reference period. It includes:
 
 - Old Age Security pension, Guaranteed Income Supplement, Allowance or Allowance for the Survivor;
-- retirement, disability and survivor benefits from Canada Pension Plan and Québec Pension Plan;
-- benefits from Employment Insurance and Québec parental insurance plan;
+- retirement, disability and survivor benefits from Canada Pension Plan and Quï¿½bec Pension Plan;
+- benefits from Employment Insurance and Quï¿½bec parental insurance plan;
 - child benefits from federal and provincial programs;
 - social assistance benefits;
 - workers' compensation benefits;
@@ -3116,7 +3116,7 @@ Government transfers - All cash benefits received from federal, provincial, terr
 
 Employment income - All income received as wages, salaries and commissions from paid employment and net self-employment income from farm or non-farm unincorporated business and/or professional practice during the reference period.
 
-Employment Insurance (EI) benefits - All Employment Insurance (EI) benefits received during the reference period, before income tax deductions. It includes benefits for unemployment, sickness, maternity, paternity, adoption, compassionate care, work sharing, retraining, and benefits to self-employed fishers received under the federal EI Program or the Québec parental insurance plan.
+Employment Insurance (EI) benefits - All Employment Insurance (EI) benefits received during the reference period, before income tax deductions. It includes benefits for unemployment, sickness, maternity, paternity, adoption, compassionate care, work sharing, retraining, and benefits to self-employed fishers received under the federal EI Program or the Quï¿½bec parental insurance plan.
 
 The reference period for these variables is calendar year 2019. These variables are intended for comparison with their 2020 equivalent and other 2019 income variables. Income for 2019 is presented in 2020 constant dollars.
 
@@ -3143,13 +3143,13 @@ The monetary receipts included are those that tend to be of a regular and recurr
 - income from investment sources, such as dividends and interest on bonds, accounts, guaranteed investment certificates (GICs) and mutual funds;
 - income from employer and personal pension sources, such as private pensions and payments from annuities and registered retirement income funds (RRIFs);
 - other regular cash income, such as child support payments received, spousal support payments (alimony) received and scholarships;
-- income from government sources, such as social assistance, child benefits, Employment Insurance benefits, Old Age Security benefits, Canada Pension Plan and Québec Pension Plan benefits and disability income.
+- income from government sources, such as social assistance, child benefits, Employment Insurance benefits, Old Age Security benefits, Canada Pension Plan and Quï¿½bec Pension Plan benefits and disability income.
 
 Receipts excluded from this income definition are:
 
 - one-time receipts, such as lottery winnings, gambling winnings, cash inheritances, lump-sum insurance settlements and tax-free savings account (TFSA) or registered retirement savings plan (RRSP) withdrawals;
 - capital gains because they are not by their nature regular and recurring. It is further assumed that they are more relevant to the concept of wealth than the concept of income;
-- employers' contributions to registered pension plans, Canada Pension Plan, Québec Pension Plan and Employment Insurance;
+- employers' contributions to registered pension plans, Canada Pension Plan, Quï¿½bec Pension Plan and Employment Insurance;
 - voluntary inter-household transfers, imputed rent, goods and services produced for barter and goods produced for own consumption.
 
 After-tax income - Total income less income taxes of the statistical unit during a specified reference period. Income taxes refers to the sum of federal income taxes, provincial and territorial income taxes, less abatement where applicable. Provincial and territorial income taxes include health care premiums in certain jurisdictions. Abatement reduces the federal income taxes payable by persons residing in Quebec or in certain self-governing Yukon First Nation settlement lands.
@@ -3159,8 +3159,8 @@ Market income - The sum of employment income (wages, salaries and commissions, n
 Government transfers - All cash benefits received from federal, provincial, territorial or municipal governments during the reference period. It includes:
 
 - Old Age Security pension, Guaranteed Income Supplement, Allowance or Allowance for the Survivor;
-- retirement, disability and survivor benefits from Canada Pension Plan and Québec Pension Plan;
-- benefits from Employment Insurance and Québec parental insurance plan;
+- retirement, disability and survivor benefits from Canada Pension Plan and Quï¿½bec Pension Plan;
+- benefits from Employment Insurance and Quï¿½bec parental insurance plan;
 - child benefits from federal and provincial programs;
 - social assistance benefits;
 - workers' compensation benefits;
@@ -3170,7 +3170,7 @@ Government transfers - All cash benefits received from federal, provincial, terr
 
 Employment income - All income received as wages, salaries and commissions from paid employment and net self-employment income from farm or non-farm unincorporated business and/or professional practice during the reference period.
 
-Employment Insurance (EI) benefits - All Employment Insurance (EI) benefits received during the reference period, before income tax deductions. It includes benefits for unemployment, sickness, maternity, paternity, adoption, compassionate care, work sharing, retraining, and benefits to self-employed fishers received under the federal EI Program or the Québec parental insurance plan.
+Employment Insurance (EI) benefits - All Employment Insurance (EI) benefits received during the reference period, before income tax deductions. It includes benefits for unemployment, sickness, maternity, paternity, adoption, compassionate care, work sharing, retraining, and benefits to self-employed fishers received under the federal EI Program or the Quï¿½bec parental insurance plan.
 
 The reference period for these variables is calendar year 2019. These variables are intended for comparison with their 2020 equivalent and other 2019 income variables. Income for 2019 is presented in 2020 constant dollars.
 
@@ -3200,13 +3200,13 @@ The monetary receipts included are those that tend to be of a regular and recurr
 - income from investment sources, such as dividends and interest on bonds, accounts, guaranteed investment certificates (GICs) and mutual funds;
 - income from employer and personal pension sources, such as private pensions and payments from annuities and registered retirement income funds (RRIFs);
 - other regular cash income, such as child support payments received, spousal support payments (alimony) received and scholarships;
-- income from government sources, such as social assistance, child benefits, Employment Insurance benefits, Old Age Security benefits, COVID-19 benefits and Canada Pension Plan and Québec Pension Plan benefits and disability income.
+- income from government sources, such as social assistance, child benefits, Employment Insurance benefits, Old Age Security benefits, COVID-19 benefits and Canada Pension Plan and Quï¿½bec Pension Plan benefits and disability income.
 
 Receipts excluded from this income definition are:
 
 - one-time receipts, such as lottery winnings, gambling winnings, cash inheritances, lump-sum insurance settlements and tax-free savings account (TFSA) or registered retirement savings plan (RRSP) withdrawals;
 - capital gains because they are not by their nature regular and recurring. It is further assumed that they are more relevant to the concept of wealth than the concept of income;
-- employers' contributions to registered pension plans, Canada Pension Plan, Québec Pension Plan and Employment Insurance;
+- employers' contributions to registered pension plans, Canada Pension Plan, Quï¿½bec Pension Plan and Employment Insurance;
 - voluntary inter-household transfers, imputed rent, goods and services produced for barter and goods produced for own consumption.
 
 After-tax income - Total income less income taxes of the statistical unit during a specified reference period. Income taxes refers to the sum of federal income taxes, provincial and territorial income taxes, less abatement where applicable. Provincial and territorial income taxes include health care premiums in certain jurisdictions. Abatement reduces the federal income taxes payable by persons residing in Quebec or in certain self-governing Yukon First Nation settlement lands.
@@ -3236,13 +3236,13 @@ The monetary receipts included are those that tend to be of a regular and recurr
 - income from investment sources, such as dividends and interest on bonds, accounts, guaranteed investment certificates (GICs) and mutual funds;
 - income from employer and personal pension sources, such as private pensions and payments from annuities and registered retirement income funds (RRIFs);
 - other regular cash income, such as child support payments received, spousal support payments (alimony) received and scholarships;
-- income from government sources, such as social assistance, child benefits, Employment Insurance benefits, Old Age Security benefits, COVID-19 benefits and Canada Pension Plan and Québec Pension Plan benefits and disability income.
+- income from government sources, such as social assistance, child benefits, Employment Insurance benefits, Old Age Security benefits, COVID-19 benefits and Canada Pension Plan and Quï¿½bec Pension Plan benefits and disability income.
 
 Receipts excluded from this income definition are:
 
 - one-time receipts, such as lottery winnings, gambling winnings, cash inheritances, lump-sum insurance settlements and tax-free savings account (TFSA) or registered retirement savings plan (RRSP) withdrawals;
 - capital gains because they are not by their nature regular and recurring. It is further assumed that they are more relevant to the concept of wealth than the concept of income;
-- employers' contributions to registered pension plans, Canada Pension Plan, Québec Pension Plan and Employment Insurance;
+- employers' contributions to registered pension plans, Canada Pension Plan, Quï¿½bec Pension Plan and Employment Insurance;
 - voluntary inter-household transfers, imputed rent, goods and services produced for barter and goods produced for own consumption.
 
 After-tax income - Total income less income taxes of the statistical unit during a specified reference period. Income taxes refers to the sum of federal income taxes, provincial and territorial income taxes, less abatement where applicable. Provincial and territorial income taxes include health care premiums in certain jurisdictions. Abatement reduces the federal income taxes payable by persons residing in Quebec or in certain self-governing Yukon First Nation settlement lands.
@@ -3269,13 +3269,13 @@ The monetary receipts included are those that tend to be of a regular and recurr
 - income from investment sources, such as dividends and interest on bonds, accounts, guaranteed investment certificates (GICs) and mutual funds;
 - income from employer and personal pension sources, such as private pensions and payments from annuities and registered retirement income funds (RRIFs);
 - other regular cash income, such as child support payments received, spousal support payments (alimony) received and scholarships;
-- income from government sources, such as social assistance, child benefits, Employment Insurance benefits, Old Age Security benefits, COVID-19 benefits and Canada Pension Plan and Québec Pension Plan benefits and disability income.
+- income from government sources, such as social assistance, child benefits, Employment Insurance benefits, Old Age Security benefits, COVID-19 benefits and Canada Pension Plan and Quï¿½bec Pension Plan benefits and disability income.
 
 Receipts excluded from this income definition are:
 
 - one-time receipts, such as lottery winnings, gambling winnings, cash inheritances, lump-sum insurance settlements and tax-free savings account (TFSA) or registered retirement savings plan (RRSP) withdrawals;
 - capital gains because they are not by their nature regular and recurring. It is further assumed that they are more relevant to the concept of wealth than the concept of income;
-- employers' contributions to registered pension plans, Canada Pension Plan, Québec Pension Plan and Employment Insurance;
+- employers' contributions to registered pension plans, Canada Pension Plan, Quï¿½bec Pension Plan and Employment Insurance;
 - voluntary inter-household transfers, imputed rent, goods and services produced for barter and goods produced for own consumption.
 
 After-tax income - Total income less income taxes of the statistical unit during a specified reference period. Income taxes refers to the sum of federal income taxes, provincial and territorial income taxes, less abatement where applicable. Provincial and territorial income taxes include health care premiums in certain jurisdictions. Abatement reduces the federal income taxes payable by persons residing in Quebec or in certain self-governing Yukon First Nation settlement lands.
@@ -3307,13 +3307,13 @@ The monetary receipts included are those that tend to be of a regular and recurr
 - income from investment sources, such as dividends and interest on bonds, accounts, guaranteed investment certificates (GICs) and mutual funds;
 - income from employer and personal pension sources, such as private pensions and payments from annuities and registered retirement income funds (RRIFs);
 - other regular cash income, such as child support payments received, spousal support payments (alimony) received and scholarships;
-- income from government sources, such as social assistance, child benefits, Employment Insurance benefits, Old Age Security benefits, COVID-19 benefits and Canada Pension Plan and Québec Pension Plan benefits and disability income.
+- income from government sources, such as social assistance, child benefits, Employment Insurance benefits, Old Age Security benefits, COVID-19 benefits and Canada Pension Plan and Quï¿½bec Pension Plan benefits and disability income.
 
 Receipts excluded from this income definition are:
 
 - one-time receipts, such as lottery winnings, gambling winnings, cash inheritances, lump-sum insurance settlements and tax-free savings account (TFSA) or registered retirement savings plan (RRSP) withdrawals;
 - capital gains because they are not by their nature regular and recurring. It is further assumed that they are more relevant to the concept of wealth than the concept of income;
-- employers' contributions to registered pension plans, Canada Pension Plan, Québec Pension Plan and Employment Insurance;
+- employers' contributions to registered pension plans, Canada Pension Plan, Quï¿½bec Pension Plan and Employment Insurance;
 - voluntary inter-household transfers, imputed rent, goods and services produced for barter and goods produced for own consumption.
 
 After-tax income - Total income less income taxes of the statistical unit during a specified reference period. Income taxes refers to the sum of federal income taxes, provincial and territorial income taxes, less abatement where applicable. Provincial and territorial income taxes include health care premiums in certain jurisdictions. Abatement reduces the federal income taxes payable by persons residing in Quebec or in certain self-governing Yukon First Nation settlement lands.
@@ -3346,13 +3346,13 @@ The monetary receipts included are those that tend to be of a regular and recurr
 - income from investment sources, such as dividends and interest on bonds, accounts, guaranteed investment certificates (GICs) and mutual funds;
 - income from employer and personal pension sources, such as private pensions and payments from annuities and registered retirement income funds (RRIFs);
 - other regular cash income, such as child support payments received, spousal support payments (alimony) received and scholarships;
-- income from government sources, such as social assistance, child benefits, Employment Insurance benefits, Old Age Security benefits, COVID-19 benefits and Canada Pension Plan and Québec Pension Plan benefits and disability income.
+- income from government sources, such as social assistance, child benefits, Employment Insurance benefits, Old Age Security benefits, COVID-19 benefits and Canada Pension Plan and Quï¿½bec Pension Plan benefits and disability income.
 
 Receipts excluded from this income definition are:
 
 - one-time receipts, such as lottery winnings, gambling winnings, cash inheritances, lump-sum insurance settlements and tax-free savings account (TFSA) or registered retirement savings plan (RRSP) withdrawals;
 - capital gains because they are not by their nature regular and recurring. It is further assumed that they are more relevant to the concept of wealth than the concept of income;
-- employers' contributions to registered pension plans, Canada Pension Plan, Québec Pension Plan and Employment Insurance;
+- employers' contributions to registered pension plans, Canada Pension Plan, Quï¿½bec Pension Plan and Employment Insurance;
 - voluntary inter-household transfers, imputed rent, goods and services produced for barter and goods produced for own consumption.
 
 After-tax income - Total income less income taxes of the statistical unit during a specified reference period. Income taxes refers to the sum of federal income taxes, provincial and territorial income taxes, less abatement where applicable. Provincial and territorial income taxes include health care premiums in certain jurisdictions. Abatement reduces the federal income taxes payable by persons residing in Quebec or in certain self-governing Yukon First Nation settlement lands.
@@ -3384,13 +3384,13 @@ The monetary receipts included are those that tend to be of a regular and recurr
 - income from investment sources, such as dividends and interest on bonds, accounts, guaranteed investment certificates (GICs) and mutual funds;
 - income from employer and personal pension sources, such as private pensions and payments from annuities and registered retirement income funds (RRIFs);
 - other regular cash income, such as child support payments received, spousal support payments (alimony) received and scholarships;
-- income from government sources, such as social assistance, child benefits, Employment Insurance benefits, Old Age Security benefits, COVID-19 benefits and Canada Pension Plan and Québec Pension Plan benefits and disability income.
+- income from government sources, such as social assistance, child benefits, Employment Insurance benefits, Old Age Security benefits, COVID-19 benefits and Canada Pension Plan and Quï¿½bec Pension Plan benefits and disability income.
 
 Receipts excluded from this income definition are:
 
 - one-time receipts, such as lottery winnings, gambling winnings, cash inheritances, lump-sum insurance settlements and tax-free savings account (TFSA) or registered retirement savings plan (RRSP) withdrawals;
 - capital gains because they are not by their nature regular and recurring. It is further assumed that they are more relevant to the concept of wealth than the concept of income;
-- employers' contributions to registered pension plans, Canada Pension Plan, Québec Pension Plan and Employment Insurance;
+- employers' contributions to registered pension plans, Canada Pension Plan, Quï¿½bec Pension Plan and Employment Insurance;
 - voluntary inter-household transfers, imputed rent, goods and services produced for barter and goods produced for own consumption.
 
 After-tax income - Total income less income taxes of the statistical unit during a specified reference period. Income taxes refers to the sum of federal income taxes, provincial and territorial income taxes, less abatement where applicable. Provincial and territorial income taxes include health care premiums in certain jurisdictions. Abatement reduces the federal income taxes payable by persons residing in Quebec or in certain self-governing Yukon First Nation settlement lands.
@@ -3431,15 +3431,15 @@ For the 2021 Census, the reference period for income data is the calendar year 2
 
 Footnote 35
 The Gini coefficient, or Gini index, is a measure of inequality that indicates how equally income is distributed for a given population. It measures how much an income distribution deviates from perfect equality. Values of the Gini coefficient can range from 0 to 1. A value of 0 indicates that income is equally divided among the population, with all units receiving exactly the same amount of income. At the opposite extreme, a Gini coefficient of 1 denotes a perfectly unequal distribution, where one unit has all of the income in the economy. 
-For the census, Gini coefficients are calculated for three types of adjusted household income—market income, total income and after tax income. Adjusted income is computed by dividing the household income by a factor equal to the square root of the household size (known as the equivalence scale). This adjustment for different household sizes takes into account economies of scale. It reflects the fact that the needs of a household increase, but at a decreasing rate, as the number of members increases. 
+For the census, Gini coefficients are calculated for three types of adjusted household incomeï¿½market income, total income and after tax income. Adjusted income is computed by dividing the household income by a factor equal to the square root of the household size (known as the equivalence scale). This adjustment for different household sizes takes into account economies of scale. It reflects the fact that the needs of a household increase, but at a decreasing rate, as the number of members increases. 
 The P90/P10 ratio is a measure of inequality. It is the ratio of the 90th and the 10th percentile of the adjusted household after-tax income. The 90th percentile means 90% of the population has income that falls below this threshold. The 10th percentile means 10% of the population has income that falls below this threshold.
 
 Footnote 36
-Knowledge of official languages refers to whether the person can conduct a conversation in English only, French only, in both or in neither language. For a child who has not yet learned to speak, this includes languages that the child is learning to speak at home.
+Knowledge of official languagesï¿½refers to whether the person can conduct a conversation in English only, French only, in both or in neither language. For a child who has not yet learned to speak, this includes languages that the child is learning to speak at home.
 For more information on language variables, including information on their classifications, the questions from which they are derived, data quality and their comparability with other sources of data, please refer to the Languages Reference Guide, Census of Population, 2021.
 
 Footnote 37
-First official language spoken refers to the first official language (English or French) spoken by the person.
+First official language spokenï¿½refers to the first official language (English or French) spoken by the person.
 For more information on language variables, including information on their classifications, the questions from which they are derived, data quality and their comparability with other sources of data, please refer to the Languages Reference Guide, Census of Population, 2021.
 
 Footnote 38
@@ -3470,8 +3470,8 @@ Comparisons to previous Census data is not recommended for the "Other languages 
 For more information on language variables, including information on their classifications, the questions from which they are derived, data quality and their comparability with other sources of data, please refer to the Languages Reference Guide, Census of Population, 2021.
 
 Footnote 43
-Knowledge of official languages refers to whether the person can conduct a conversation in English only, French only, in both or in neither language. For a child who has not yet learned to speak, this includes languages that the child is learning to speak at home.
-Knowledge of non-official languages refers to whether the person can conduct a conversation in a language other than English or French. For a child who has not yet learned to speak, this includes languages that the child is learning to speak at home. The number of languages that can be reported may vary between surveys, depending on the objectives of the survey.
+Knowledge of official languagesï¿½refers to whether the person can conduct a conversation in English only, French only, in both or in neither language. For a child who has not yet learned to speak, this includes languages that the child is learning to speak at home.
+Knowledge of non-official languagesï¿½refers to whether the person can conduct a conversation in a language other than English or French. For a child who has not yet learned to speak, this includes languages that the child is learning to speak at home. The number of languages that can be reported may vary between surveys, depending on the objectives of the survey.
 n.i.e. = not included elsewhere
 n.o.s. = not otherwise specified
 For more information on language variables, including information on their classifications, the questions from which they are derived, data quality and their comparability with other sources of data, please refer to the Languages Reference Guide, Census of Population, 2021.
@@ -3481,19 +3481,19 @@ Users should be aware that the estimates associated with this variable are more 
 For more information on Indigenous variables, including information on their classifications, the questions from which they are derived, data quality and their comparability with other sources of data, please refer to the Indigenous Peoples Reference Guide, Census of Population, 2021 and the Indigenous Peoples Technical Report, Census of Population, 2021.
 
 Footnote 45
-This category includes persons who identify as First Nations (North American Indian), Métis and/or Inuk (Inuit) and/or those who report being Registered or Treaty Indians (that is, registered under the Indian Act of Canada), and/or those who report having membership in a First Nation or Indian band.
+This category includes persons who identify as First Nations (North American Indian), Mï¿½tis and/or Inuk (Inuit) and/or those who report being Registered or Treaty Indians (that is, registered under the Indian Act of Canada), and/or those who report having membership in a First Nation or Indian band.
 
 Footnote 46
-This category includes persons who identify as only one Indigenous group, that is First Nations (North American Indian), Métis or Inuk (Inuit).
+This category includes persons who identify as only one Indigenous group, that is First Nations (North American Indian), Mï¿½tis or Inuk (Inuit).
 
 Footnote 47
-This category includes persons who identify as any two or all three of the following: First Nations (North American Indian), Métis and/or Inuk (Inuit).
+This category includes persons who identify as any two or all three of the following: First Nations (North American Indian), Mï¿½tis and/or Inuk (Inuit).
 
 Footnote 48
-This category includes persons who do not identify as First Nations (North American Indian), Métis or Inuk (Inuit) but who report having Registered or Treaty Indian status and/or Membership in a First Nation or Indian band.
+This category includes persons who do not identify as First Nations (North American Indian), Mï¿½tis or Inuk (Inuit) but who report having Registered or Treaty Indian status and/or Membership in a First Nation or Indian band.
 
 Footnote 49
-Registered or Treaty Indian status refers to whether or not a person is a Registered or Treaty Indian. Registered Indians are persons who are registered under the Indian Act of Canada. Treaty Indians are persons who belong to a First Nation or Indian band that signed a treaty with the Crown. Registered or Treaty Indians are sometimes also called Status Indians.
+Registered or Treaty Indian statusï¿½refers to whether or not a person is a Registered or Treaty Indian. Registered Indians are persons who are registered under the Indian Act of Canada. Treaty Indians are persons who belong to a First Nation or Indian band that signed a treaty with the Crown. Registered or Treaty Indians are sometimes also called Status Indians.
 
 Footnote 50
 Tenure refers to whether the household owns or rents their private dwelling. The private dwelling may be situated on rented or leased land or be part of a condominium. A household is considered to own their dwelling if some member of the household owns the dwelling even if it is not fully paid for, for example if there is a mortgage or some other claim on it. A household is considered to rent their dwelling if no member of the household owns the dwelling. A household is considered to rent that dwelling even if the dwelling is provided without cash rent or at a reduced rent, or if the dwelling is part of a cooperative.
@@ -3544,9 +3544,9 @@ For more information on household total income or shelter costs, refer to the Ce
 Footnote 62
 Acceptable housing refers to whether a household meets each of the three indicator thresholds established by the Canada Mortgage and Housing Corporation for housing adequacy, suitability and affordability.
 Housing indicator thresholds are defined as follows:
-•Adequate housing is reported by their residents as not requiring any major repairs.
-•Affordable housing has shelter costs equal to less than 30% of total before-tax household income.
-•Suitable housing has enough bedrooms for the size and composition of resident households according to the National Occupancy Standard (NOS), conceived by the Canada Mortgage and Housing Corporation and provincial and territorial representatives.
+ï¿½Adequate housing is reported by their residents as not requiring any major repairs.
+ï¿½Affordable housing has shelter costs equal to less than 30% of total before-tax household income.
+ï¿½Suitable housing has enough bedrooms for the size and composition of resident households according to the National Occupancy Standard (NOS), conceived by the Canada Mortgage and Housing Corporation and provincial and territorial representatives.
 Acceptable housing identifies which thresholds the household falls below, if any. Housing that is adequate in condition, suitable in size and affordable is considered to be acceptable.
 Households below and above the thresholds are based on the indicators for which individual households can be assessed. Farm and on-reserve households whose housing does not meet either or both of the suitability and adequacy thresholds are counted in the total of households below the thresholds. Farm and on-reserve households who live in housing that meets both the suitability and adequacy thresholds are counted in the total of households above the thresholds (even though it is not possible to assess housing affordability for these households). Farm households and on-reserve households cannot be assessed for housing affordability because the concept is not applicable.
 Housing affordability is assessed for owner and tenant households with household total income greater than zero in non-farm, non-reserve private dwellings.
@@ -3569,27 +3569,27 @@ Footnote 67
 Subsidized housing refers to whether a renter household lives in a dwelling that is subsidized. Subsidized housing includes rent geared to income, social housing, public housing, government-assisted housing, non-profit housing, rent supplements and housing allowances.
 
 Footnote 68
-'Indigenous ancestry' refers to whether a person has ancestry associated with the Indigenous peoples of Canada, that is, First Nations (North American Indian), Métis, and/or Inuit. Aboriginal peoples (referred to here as Indigenous peoples) of Canada are defined in the Constitution Act, 1982, Section 35 (2) as including the Indian, Inuit and Métis peoples of Canada. The term 'Aboriginal' has been replaced with the updated term of 'Indigenous' when referring to individuals who identify themselves as First Nations people, Métis and/or Inuit. Ancestry refers to the ethnic or cultural origins of the person's ancestors, an ancestor being usually more distant than a grandparent. A person can have more than one ethnic or cultural origin.
+'Indigenous ancestry' refers to whether a person has ancestry associated with the Indigenous peoples of Canada, that is, First Nations (North American Indian), Mï¿½tis, and/or Inuit. Aboriginal peoples (referred to here as Indigenous peoples) of Canada are defined in the Constitution Act, 1982, Section 35 (2) as including the Indian, Inuit and Mï¿½tis peoples of Canada. The term 'Aboriginal' has been replaced with the updated term of 'Indigenous' when referring to individuals who identify themselves as First Nations people, Mï¿½tis and/or Inuit. Ancestry refers to the ethnic or cultural origins of the person's ancestors, an ancestor being usually more distant than a grandparent. A person can have more than one ethnic or cultural origin.
 Users should be aware that the estimates associated with this variable are more affected than most by the incomplete enumeration of certain reserves and settlements in the Census of Population.
 For more information on Indigenous variables, including information on their classifications, the questions from which they are derived, data quality and their comparability with other sources of data, please refer to the Indigenous Peoples Reference Guide, Census of Population, 2021 and the Indigenous Peoples Technical Report, Census of Population, 2021.
 
 Footnote 69
-'Indigenous ancestry (only)' includes persons who have First Nations (North American Indian), Métis and/or Inuit ancestry. It excludes persons with non-Indigenous ancestry.
+'Indigenous ancestry (only)' includes persons who have First Nations (North American Indian), Mï¿½tis and/or Inuit ancestry. It excludes persons with non-Indigenous ancestry.
 
 Footnote 70
-'Single Indigenous ancestry (only)' includes persons who have only one of First Nations (North American Indian), Métis or Inuit ancestry. It excludes persons with non-Indigenous ancestry.
+'Single Indigenous ancestry (only)' includes persons who have only one of First Nations (North American Indian), Mï¿½tis or Inuit ancestry. It excludes persons with non-Indigenous ancestry.
 
 Footnote 71
-'Multiple Indigenous ancestries (only)' includes persons who have two or more of First Nations (North American Indian), Métis and Inuit ancestries. It excludes persons with non-Indigenous ancestry.
+'Multiple Indigenous ancestries (only)' includes persons who have two or more of First Nations (North American Indian), Mï¿½tis and Inuit ancestries. It excludes persons with non-Indigenous ancestry.
 
 Footnote 72
-'Indigenous and non-Indigenous ancestries' includes persons who have First Nations (North American Indian), Métis and/or Inuit ancestry, as well as non-Indigenous ancestry.
+'Indigenous and non-Indigenous ancestries' includes persons who have First Nations (North American Indian), Mï¿½tis and/or Inuit ancestry, as well as non-Indigenous ancestry.
 
 Footnote 73
-'Single Indigenous and non-Indigenous ancestries' includes persons who have First Nations (North American Indian), Métis or Inuit ancestry, as well as non-Indigenous ancestry.
+'Single Indigenous and non-Indigenous ancestries' includes persons who have First Nations (North American Indian), Mï¿½tis or Inuit ancestry, as well as non-Indigenous ancestry.
 
 Footnote 74
-'Multiple Indigenous and non-Indigenous ancestries' includes persons who have two or more of First Nations (North American Indian), Métis and Inuit ancestries, as well as non-Indigenous ancestry.
+'Multiple Indigenous and non-Indigenous ancestries' includes persons who have two or more of First Nations (North American Indian), Mï¿½tis and Inuit ancestries, as well as non-Indigenous ancestry.
 
 Footnote 75
 'Non-Indigenous ancestry (only)' includes persons who have non-Indigenous ancestry only.
@@ -3899,7 +3899,7 @@ Footnote 167
 'High (secondary) school diploma or equivalency certificate' includes only people who have this as their highest educational credential. It excludes persons with a postsecondary certificate, diploma or degree.
 
 Footnote 168
-'Non-apprenticeship trades certificate or diploma' includes trades certificates or diplomas such as pre-employment or vocational certificates and diplomas from brief trade programs completed at colleges, institutes of technology, vocational centres and similar institutions. It also includes qualifications from vocational training programs in the province of Quebec such as the Diplôme d'études professionnelles (DEP)/Diploma of Vocational Studies (DVS).
+'Non-apprenticeship trades certificate or diploma' includes trades certificates or diplomas such as pre-employment or vocational certificates and diplomas from brief trade programs completed at colleges, institutes of technology, vocational centres and similar institutions. It also includes qualifications from vocational training programs in the province of Quebec such as the Diplï¿½me d'ï¿½tudes professionnelles (DEP)/Diploma of Vocational Studies (DVS).
 
 Footnote 169
 'Apprenticeship certificate' includes Certificates of Apprenticeship, Certificates of Qualification and Journeyperson's designations.
@@ -3960,7 +3960,7 @@ Footnote 187
 Includes persons aged 15 years and over who worked full year (49 weeks and over) and mostly full time (30 hours or more per week) in 2020.
 
 Footnote 188
-Includes persons aged 15 years and over who worked full year mostly part time or part year either mostly full time or mostly part time in 2020. Part year is less than 49 weeks and part time is less than 30 hours per week.
+Includes persons aged 15 years and over who workedï¿½full year mostly part time or part year either mostly full time or mostly part time in 2020. Part year is less than 49 weeks and part time is less than 30 hours per week.
 
 Footnote 189
 Class of worker including job permanency refers to whether a person is a paid employee or is self-employed. Employees' positions are further classified as either permanent or temporary.
@@ -3985,14 +3985,14 @@ Footnote 195
 For more information on language variables, including information on their classifications, the questions from which they are derived, data quality and their comparability with other sources of data, please refer to the Languages Reference Guide, Census of Population, 2021.
 
 Footnote 196
-Language used most often at work refers to the language the person uses most often at work. A person can report more than one language as "used most often at work" if the languages are used equally often.
+Language used most often at workï¿½refers to the language the person uses most often at work. A person can report more than one language as "used most often at work" if the languages are used equally often.
 n.i.e. = not included elsewhere
 n.o.s. = not otherwise specified
 For more information on language variables, including information on their classifications, the questions from which they are derived, data quality and their comparability with other sources of data, please refer to the Languages Reference Guide, Census of Population, 2021.
 
 Footnote 197
 "Other language(s) used regularly at work" refers to the languages, if any, that the person uses in their job on a regular basis, other than the language or languages they use most often at work.
-Comparisons to previous census data is not recommended for the ‘Other languages used regularly at work’ variable.
+Comparisons to previous census data is not recommended for the ï¿½Other languages used regularly at workï¿½ variable.
 For more information on language variables, including information on their classifications, the questions from which they are derived, data quality and their comparability with other sources of data, please refer to the Languages Reference Guide, Census of Population, 2021.
 
 Footnote 198
@@ -4002,7 +4002,7 @@ Footnote 199
 Commuting destination refers to whether or not a person commutes to another municipality (i.e., census subdivision), another census division or another province or territory. Commuting refers to the travel of a person to their usual place of work.
 
 Footnote 200
-Main mode of commuting refers to the main mode of transportation a person uses to travel to their place of work.
+Main mode of commutingï¿½refers to the main mode of transportation a person uses to travel to theirï¿½place of work.
 The census assumes that the commute to work originates from the usual place of residence, but this may not always be the case. Sometimes, respondents may be on a business trip and may have reported their place of work or main mode of commuting based on where they were working during the trip. Some persons maintain a residence close to work and commute to their home on weekends. Students often work after school at a location near their school. As a result, the data may show unusual commutes or unusual main modes of commuting.
 
 Footnote 201
