@@ -20,3 +20,7 @@ A0J,1823.4152
 A0K,58466.1398
 A0L,1490.5444
 ```
+
+```bash
+ogr2ogr -f "ESRI Shapefile" ./fsa_K_means_20_clusters/fsa_K_means_20_clusters.shp lfsa000b21a_e.shp -dialect SQLite -sql "SELECT lfsa.*, csv.* FROM lfsa000b21a_e AS lfsa LEFT JOIN 'fsa_K_means_20_clusters.csv'.fsa_K_means_20_clusters AS csv ON lfsa.CFSAUID = csv.geo_name"
+```
